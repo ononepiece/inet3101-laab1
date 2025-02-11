@@ -49,7 +49,7 @@ Function Definitions
 
 
 To compile the program, use: gcc -o lab1 lab1.c
- ./lab1 myDatabase
+./lab1 MarksDatabase
   
 Sources used to help with  outputs/inputs
 https://www.programiz.com/c-programming/c-arrays 
